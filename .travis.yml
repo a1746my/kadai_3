@@ -1,4 +1,4 @@
 language: bash
 script:
-  - bash ./testcode_same.sh
-  - bash ./test_same2.sh
+  - ./testcode_same.sh
+  - ./test_same2.sh
