@@ -1,9 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
-echo "please enter number:"
-read a
-echo "please enter another number:"
-read b
+a=$1
+b=$2
 
 if [ $a -gt $b ]; then
 

@@ -1,4 +1,5 @@
 language: bash
 script:
-  - bash ./test_same.sh
-  - bash ./test_same2.sh
+  - bash ./test_saidai.sh
+  - bash ./test_saidai2.sh
+  - bash ./test_saidai3.sh
