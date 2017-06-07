@@ -3,3 +3,4 @@ script:
   - bash ./test_saidai.sh
   - bash ./test_saidai2.sh
   - bash ./test_saidai3.sh
+  - bash ./test_saidai4.sh
